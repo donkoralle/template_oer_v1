@@ -1,6 +1,6 @@
-# 📘 XXX – Lecture Materials
+# 📘 Course Materials: XXX
 
-This repository contains materials used in the lecture **"XXX"** taught in XXX at the [IMC University of Applied Sciences Krems](https://www.imc.ac.at/). The materials are shared to support learning, collaboration, and adaptation by educators, students, practitioners, and of course: you 😉.
+This repository contains materials used in the course taught at the [IMC University of Applied Sciences Krems](https://www.imc.ac.at/). The materials are shared to support learning, collaboration, and adaptation by educators, students, practitioners, and of course: you 😉.
 
 ---
 
@@ -16,6 +16,7 @@ This repository contains materials used in the lecture **"XXX"** taught in XXX a
 - **Title:** XXX
 - **Author(s):** Kami Höferl
 - **Institution:** IMC University of Applied Sciences Krems  
+- **Semester:** XXX  
 - **Language:** English  
 - **Level:** Bachelor  
 - **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
